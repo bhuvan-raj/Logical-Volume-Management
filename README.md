@@ -1,6 +1,6 @@
 # 📦 Logical Volume Management (LVM) 
 
-<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/banner.png" alt="Banner" />
+<img src="https://github.com/bhuvan-raj/Logical-Volume-Management/blob/main/lvm.png" alt="Banner" />
 
 ## 🧠 What is LVM?
 
