@@ -1,5 +1,7 @@
 # 📦 Logical Volume Management (LVM) 
 
+<img src="https://github.com/bhuvan-raj/bhuvan-raj/blob/main/banner.png" alt="Banner" />
+
 ## 🧠 What is LVM?
 
 LVM (Logical Volume Management) is a flexible storage management solution for Linux systems. Instead of working directly with physical disks and partitions, LVM provides an abstraction layer that lets you create logical volumes from one or more physical volumes.
